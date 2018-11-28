@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spingarr">
+        <item></item>
+        <item>20x20x20</item>
+        <item>15x15x15</item>
+        <item>10x10x10</item>
+    </string-array>
+</resources>
